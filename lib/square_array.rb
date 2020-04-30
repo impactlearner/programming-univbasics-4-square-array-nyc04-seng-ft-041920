@@ -2,11 +2,11 @@ def square_array(array)
   # your code here
 counter = 0
 array = [1, 2, 3]
-squared_array = []
+square_array = []
 while array[counter] do
-    squared_array.push(array[counter**])
+    square_array.push(array[counter**])
     counter += 1
 
   end
-squared_array
+square_array
 end

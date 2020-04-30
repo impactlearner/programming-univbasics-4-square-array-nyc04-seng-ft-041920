@@ -4,7 +4,7 @@ counter = 0
 array = [1, 2, 3]
 square_array = []
 while array[counter] do
-    square_array.push(array[counter**])
+    square_array.push(array)
     counter += 1
 
   end
